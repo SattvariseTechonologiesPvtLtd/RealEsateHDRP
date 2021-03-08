@@ -199,9 +199,9 @@ MonoBehaviour:
   m_RenderPipelineSettings:
     supportShadowMask: 1
     supportSSR: 1
-    supportSSRTransparent: 0
-    supportSSAO: 1
-    supportSSGI: 0
+    supportSSRTransparent: 1
+    supportSSAO: 0
+    supportSSGI: 1
     supportSubsurfaceScattering: 1
     sssSampleBudget:
       m_Values: 140000002800000050000000
@@ -229,7 +229,7 @@ MonoBehaviour:
       m_Values: 000100000004000000040000
       m_SchemaId:
         m_Id: With3Levels
-    supportDecals: 1
+    supportDecals: 0
     supportDecalLayers: 0
     decalLayerName0: Decal Layer default
     decalLayerName1: Decal Layer 1
@@ -257,7 +257,7 @@ MonoBehaviour:
       cookieAtlasLastValidMip: 0
       cookieTexArraySize: 1
       planarReflectionAtlasSize: 1024
-      reflectionProbeCacheSize: 64
+      reflectionProbeCacheSize: 128
       reflectionCubemapSize: 256
       reflectionCacheCompressed: 0
       reflectionProbeFormat: 74
@@ -372,7 +372,7 @@ MonoBehaviour:
       AOBilateralUpsample: 000101
       AODirectionCount: 010000000200000004000000
       ContactShadowSampleCount: 060000000a00000010000000
-      SSRMaxRaySteps: 100000002000000040000000
+      SSRMaxRaySteps: 400000004000000080000000
       RTAORayLength:
       - 0.5
       - 3
