@@ -17,6 +17,31 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: Basin_M
+    second: {fileID: 2100000, guid: 803ba51ccec77f44cbffdcedfb18ba07, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Basin_base_M
+    second: {fileID: 2100000, guid: b25636cda603b504695bc0bc41c781d5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Basin_drawer_M
+    second: {fileID: 2100000, guid: 0209c3c14ddc5ec40b5a10420df48f5d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Basin_marble_M
+    second: {fileID: 2100000, guid: 68ea80de986aec447a100ee65e4f037f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Basin_metal_M
+    second: {fileID: 2100000, guid: b68762ebacb8c394fa25957f439b75f5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: Bed_base_M
     second: {fileID: 2100000, guid: 037ba2220ebc1f24da01821ff7e20684, type: 2}
   - first:
@@ -39,11 +64,6 @@ ModelImporter:
       assembly: UnityEngine.CoreModule
       name: Bed_pillows_M
     second: {fileID: 2100000, guid: dc2827b7cac7a30448ff698d50bb2939, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Bed_wood_M
-    second: {fileID: 2100000, guid: 87947ec2a2851f449bcb756669e54976, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -422,8 +442,38 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: Lightbulb_emissive_M
+    second: {fileID: 2100000, guid: af3440529d780644199c70017827f53f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lightbulb_mat_M
+    second: {fileID: 2100000, guid: 735745468769535409e30f2528818c45, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lightbulb_metal_M
+    second: {fileID: 2100000, guid: 0d9e499457437ac46ae72a88380a248c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: Lights_plastic_M1
     second: {fileID: 2100000, guid: da84ff67a8f5ed74483ab2840c0d637e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mirror_M
+    second: {fileID: 2100000, guid: 66269669f5d82804bbb81b2f8eaf448d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mirror_matt_M
+    second: {fileID: 2100000, guid: 62e599024b8d21d4595ee7a74cd88193, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: NOENTRY_plates_M
+    second: {fileID: 2100000, guid: 0d558b0164c4f0042a75f80e773f5d3d, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -434,6 +484,11 @@ ModelImporter:
       assembly: UnityEngine.CoreModule
       name: NewCeiling_M
     second: {fileID: 2100000, guid: 61532504b0b5aea4f9e010dfcd6498c9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shower_M1
+    second: {fileID: 2100000, guid: d7009fbb3c91b2a4fa7bceea4e4f3cc2, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
