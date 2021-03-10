@@ -17,6 +17,66 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: Bed_base_M
+    second: {fileID: 2100000, guid: 037ba2220ebc1f24da01821ff7e20684, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bed_bedsheet_M
+    second: {fileID: 2100000, guid: 2368865f5bc256e4788495c404b78cb5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bed_blanket_M
+    second: {fileID: 2100000, guid: 99feb794d41361546a71f142600c397e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bed_matress_M
+    second: {fileID: 2100000, guid: be8ef6ebe7b05c547b01c20787a6cc12, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bed_pillows_M
+    second: {fileID: 2100000, guid: dc2827b7cac7a30448ff698d50bb2939, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bed_wood_M
+    second: {fileID: 2100000, guid: 87947ec2a2851f449bcb756669e54976, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Books_M
+    second: {fileID: 2100000, guid: fcf6ae3988967da4da06d3fbad691233, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ChairKoltuk_fabric_M
+    second: {fileID: 2100000, guid: 102d71e8992d880409a07a24bf2506ed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ChairKoltuk_wood_M
+    second: {fileID: 2100000, guid: bece3eaf61341fd45ae72175b150f64c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Clock_BackFrame_M
+    second: {fileID: 2100000, guid: de3857acab8a53c41b234116a0bc5b6b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Clock_face_M
+    second: {fileID: 2100000, guid: 703107720621b0345a4c78c3286f067b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Clock_index_M
+    second: {fileID: 2100000, guid: 4243162389f6fcc428083fa6b7fee470, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: CommonWIndow_marble_M
     second: {fileID: 2100000, guid: 9bd198bfc5d33734ebdefee0319248ff, type: 2}
   - first:
@@ -69,6 +129,21 @@ ModelImporter:
       assembly: UnityEngine.CoreModule
       name: Corridor_misc_M
     second: {fileID: 2100000, guid: a08b813c4e5db6c4bb71853fea667a1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DinningChandelier_lightbulb_M
+    second: {fileID: 2100000, guid: 1f97961784ed2c84a873e89ec9a88f46, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DinningChandelier_metal_M
+    second: {fileID: 2100000, guid: 9c6157634ab56e84bbbac77c36e6597f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DinningChandelier_wood_M
+    second: {fileID: 2100000, guid: 2a0c5a469cb5d1b42bbebdd02ce2cec4, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -347,8 +422,8 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: NOENTRY_plates_M
-    second: {fileID: 2100000, guid: 0d558b0164c4f0042a75f80e773f5d3d, type: 2}
+      name: Lights_plastic_M1
+    second: {fileID: 2100000, guid: da84ff67a8f5ed74483ab2840c0d637e, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -377,6 +452,11 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: SmallTable_M
+    second: {fileID: 2100000, guid: 5e76e0fb7a183e047bb44fb32976ac59, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: SmallWindow_glass_1_M
     second: {fileID: 2100000, guid: 4a8a6ad22293e384cb55c5a88895c4c2, type: 2}
   - first:
@@ -399,6 +479,41 @@ ModelImporter:
       assembly: UnityEngine.CoreModule
       name: SmallWindow_metal_M
     second: {fileID: 2100000, guid: 79e6d7065443e424c8abc74cdc2ec15a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SofaTHREE_cushion_M
+    second: {fileID: 2100000, guid: d7d77c8b1eaf82d43a20a7da051b0660, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SofaTHREE_lines_M
+    second: {fileID: 2100000, guid: b4ca3ea442a5b5d4d8e022d987e880f8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SofaTWO_cushion_M
+    second: {fileID: 2100000, guid: 1348682e1cfdf9f4bad9ef9cfc5a73e8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SofaTWO_lines_M
+    second: {fileID: 2100000, guid: ddfba304e51966947bc5d338923d2e16, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SofaTWO_metal_M
+    second: {fileID: 2100000, guid: 2c62a7bb97b266e41b9351bcab7b5af3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sofa_metal_M
+    second: {fileID: 2100000, guid: 44a9b1622cd6e524ba3c408851454aca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Switchboard_plastic_M
+    second: {fileID: 2100000, guid: 75c3d74c0dbff5642943d4c031ce050b, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -489,11 +604,6 @@ ModelImporter:
       assembly: UnityEngine.CoreModule
       name: Toilet_metal_M
     second: {fileID: 2100000, guid: da9a2f43abd9af64497e18c38cd8baea, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: lambert1
-    second: {fileID: 2100000, guid: 831ff91d1c4cbda4ea402c6d531faed1, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
